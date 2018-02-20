@@ -4,7 +4,7 @@ resources:
     type: gitRepo
     # replace dr_github with your GitHub integration name
     integration: dr_github
-    pointer:
+    versionTemplate:
       # replace with source code location (e.g. GitHub) where you cloned this
       # sample project.
       sourceName: devops-recipes/ci-docker-windows
