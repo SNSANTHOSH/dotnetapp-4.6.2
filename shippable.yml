@@ -5,8 +5,7 @@ resources:
     # replace dr_github with your GitHub integration name
     integration: dr_github
     versionTemplate:
-      # replace with source code location (e.g. GitHub) where you cloned this
-      # sample project.
+      # replace with source code location (e.g. GitHub) where you cloned this sample project.
       sourceName: devops-recipes/ci-docker-windows
       branch: master
 
